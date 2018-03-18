@@ -1,0 +1,8 @@
+---
+applications:
+- name: krunal-appdirect
+  memory: 1G
+  instances: 1
+  path: target/krunal-1.0-RELEASE.jar
+  buildpack: https://github.com/cloudfoundry/java-buildpack
+ 

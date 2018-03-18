@@ -1,0 +1,11 @@
+spring:
+  h2.console.enabled: true
+  h2.console.path: /h2-console
+  h2.console.settings.web-allow-others: true
+
+oauth.consumer.key: test3-194640
+oauth.consumer.secret: vrhbbiyw6XCxyiIG
+
+management.security.enabled: true
+security.user.name: admin
+security.user.password: admin

@@ -33,7 +33,7 @@ Embedded database H2 can be accessed through the following link.
 
 https://krunal-appdirect.cfapps.io/h2-console/
 
-####Note: 
+#### Note: 
 * Please change JDBC url to jdbc:h2:mem:testdb and press connect. It will open database schema and tables. 
 * When asks for credential use username: admin password: admin.
 

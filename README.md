@@ -39,5 +39,7 @@ https://krunal-appdirect.cfapps.io/h2-console/
 
 ### Deploy to cloud foundry
 To deploy the application to the cloud foundry use following command.
+
 `cf push`
+
 It will take configuration from manifest.yml file.

@@ -1,5 +1,4 @@
 .idea
-/src/gen
 createDDL.jdbc
 krunal.iml
 /target
